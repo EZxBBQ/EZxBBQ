@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!--
-**EZxBBQ/EZxBBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **EZxBBQ/EZxBBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Adi Nugroho</h1>
 <h3 align="center">Beginner game developer, still learning the basics. Also do front-end.</h3>
