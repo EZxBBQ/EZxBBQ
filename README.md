@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Adi Nugroho</h1>
 <h3 align="center">Beginner game developer, still learning the basics. Also do front-end.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezxbbq" alt="ezxbbq" /></a> </p>
-
 - 🌱 I’m currently learning **Unity**
 
 - 📫 How to reach me **adi.nugroho.59162@gmail.com**
