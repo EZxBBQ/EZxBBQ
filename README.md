@@ -1,10 +1,10 @@
 
 <!-- **EZxBBQ/EZxBBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hi 👋, I'm Adi Nugroho</h1>
-<h3 align="center">Beginner game developer, still learning the basics.</h3>
+<h1 align="center">I'm Adi Nugroho</h1>
+<h3 align="center">Beginner game designer, always learning about trend.</h3>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 A couple experiences with Unity and Unreal for Prototyping
 
 - 📫 How to reach me **adi.nugroho.59162@gmail.com**
 
