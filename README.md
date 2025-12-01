@@ -2,7 +2,7 @@
 <!-- **EZxBBQ/EZxBBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">I'm Adi Nugroho</h1>
-<h3 align="center">An enthusiast in IoT and Game development. Fans of role playing games. Love to create anything useful.</h3>
+<h3 align="center">An enthusiast in IoT and game development. Fans of role playing games. Love to create anything useful.</h3>
 
 - 📫 How to reach me **adi.nugroho.59162@outlook.com**
 
